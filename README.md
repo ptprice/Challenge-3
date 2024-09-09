@@ -14,41 +14,39 @@ This application runs HTML, CSS, and Java Script pages with no required dependen
 
 ### Installing
 
-This application does not require any downloading you just access the site by going to the website located at
+This application does not require any downloading you just access the site by going to the website located at https://ptprice.github.io/Payroll-Manager-Site/
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+Go to the website (URL above)
+1. Click add employee
+2. Enter employee's first name, click submit
+3. Enter employee's last name, click submit
+4. Enter employee's wage, click submit
+5. Continue adding employees till you are finished and click cancel at the end of the sequence
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+N/A
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Paul Price
+ptprice@gmail.com
 
 ## Version History
 
 * 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * fixed file structure
+    * updated readme file
 * 0.1
     * Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
